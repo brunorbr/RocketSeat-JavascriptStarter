@@ -11,7 +11,7 @@ function newSquare(){
     square.style.height = '100px';
     square.style.width = '100px';
     square.style.backgroundColor = '#FF0000';
-    square.style.padding = '2px';
+    square.style.margin = '2px';
     bodyElement.appendChild(square);
 }
 
